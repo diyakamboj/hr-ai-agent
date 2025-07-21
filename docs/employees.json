@@ -1,0 +1,7 @@
+[
+  {"id": "E001", "name": "Alice Johnson", "email": "alice@company.com", "department": "Engineering", "role": "Frontend Developer", "skills": ["React", "JavaScript"], "manager": "Bob Smith", "start_date": "2023-02-15", "projects": ["Website Redesign"]},
+  {"id": "E002", "name": "Bob Smith", "email": "bob@company.com", "department": "Engineering", "role": "Backend Developer", "skills": ["Python", "Django"], "manager": "Carol Lee", "start_date": "2022-06-01", "projects": ["API Development"]},
+  {"id": "E003", "name": "Sarah Kim", "email": "sarah@company.com", "department": "Design", "role": "UI/UX Designer", "skills": ["Figma", "Sketch"], "manager": "Carol Lee", "start_date": "2024-01-10", "projects": ["Mobile App"]},
+  {"id": "E004", "name": "Olivia Wang", "email": "olivia@company.com", "department": "QA", "role": "QA Engineer", "skills": ["Selenium", "Python"], "manager": "Bob Smith", "start_date": "2023-09-01", "projects": ["Testing Automation"]},
+  {"id": "E005", "name": "Emily Chen", "email": "emily@company.com", "department": "HR", "role": "HR Manager", "skills": ["Recruitment", "Onboarding"], "manager": "CEO", "start_date": "2021-03-20", "projects": ["HR Policy Update"]}
+]

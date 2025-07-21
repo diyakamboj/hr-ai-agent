@@ -1,5 +1,0 @@
-{
-  "welcome_developer": "Welcome {name} to the team as our new {role}! Your start date is {start_date}.",
-  "it_setup": "Hi {name}, your IT setup for {role} includes: {setup}.",
-  "security_training": "Dear {name}, please complete security training by {date}."
-}

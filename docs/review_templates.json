@@ -1,0 +1,6 @@
+{
+  "developer": "Quarterly review for {name} ({role}) on {date}. Discuss project progress, code quality, and teamwork.",
+  "designer": "Quarterly review for {name} ({role}) on {date}. Discuss design output, creativity, and collaboration.",
+  "qa": "Quarterly review for {name} ({role}) on {date}. Discuss test coverage, bug reports, and automation.",
+  "hr": "Quarterly review for {name} ({role}) on {date}. Discuss recruitment, onboarding, and policy updates."
+}
