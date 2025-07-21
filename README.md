@@ -95,10 +95,7 @@ Agent: "Welcome! I've noted you need ML equipment - I recommend the MacBook Pro 
 ```
 hr-ai-agent-demo/
 ├── hr_management_agent_demo.ipynb    # Main notebook
-├── requirements.txt                   # Python dependencies
-├── .env.example                      # Environment variables template
-├── hr_docs/                          # HR documents for RAG (optional)
-├── docs/                             # Additional documents (optional)
+├── docs/                             # Documents for RAG
 └── README.md                         # This file
 ```
 
